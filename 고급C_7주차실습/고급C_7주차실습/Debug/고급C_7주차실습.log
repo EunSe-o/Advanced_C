@@ -1,0 +1,5 @@
+﻿  5.c
+C:\Users\박은서\source\repos\고급C_7주차실습\고급C_7주차실습\5.c(21,18): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박은서\source\repos\고급C_7주차실습\고급C_7주차실습\5.c(27,17): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박은서\source\repos\고급C_7주차실습\고급C_7주차실습\5.c(8,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  고급C_7주차실습.vcxproj -> C:\Users\박은서\source\repos\고급C_7주차실습\Debug\고급C_7주차실습.exe
